@@ -17,6 +17,9 @@ def sattolo_cycle(items) -> None:
 c = st.container()
 c.write("HI")
 st.title("Cryptograms :)")
+<<<<<<< HEAD
+st.markdown("tomato")
+=======
 st.markdown("test")
 
 df = pd.DataFrame({
