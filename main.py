@@ -6,9 +6,6 @@ import numpy as np
 c = st.container()
 c.write("HI")
 st.title("Cryptograms :)")
-<<<<<<< HEAD
-st.markdown("tomato")
-=======
 st.markdown("test")
 
 df = pd.DataFrame({
@@ -17,4 +14,3 @@ df = pd.DataFrame({
 })
 
 df
->>>>>>> 4808cd7b3dde7bb269cf3537c4b9185c3be37f6a
