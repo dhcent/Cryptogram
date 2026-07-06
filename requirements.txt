@@ -1,1 +1,3 @@
-Commit - sean
+streamlit
+pandas
+numpy
