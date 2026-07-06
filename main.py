@@ -26,3 +26,13 @@ for c in selected_quote:
     pass 
 
 print(alphabet)
+# Creates a list of columns
+cols = st.columns[10]
+
+for i in range(cols):
+    with cols[i]:
+        letter = st.text_input(
+            label = f"Letter {i}" #explains to user what input is for
+            value = ""
+            max_chars = 1
+        )
